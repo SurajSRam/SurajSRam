@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SurajSRam
-- 👀 I’m interested in Software development
+- 👋 Hi, I’m @SurajSRam full stack software developer.
+- 👀 I’m interested in Software development.
 - 🌱 I’m continuously learning new technologies for software development.
 - 💞️ I’m looking to collaborate on web development and mobile app development with any technology present in market.
 - 📫 You can reach me at surajram191919@gmail.com
